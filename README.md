@@ -1,2 +1,2 @@
 # Tetris
-A simple Tetris written in Java
+Ein einfaches Tetris-Spiel codiert in Java.
